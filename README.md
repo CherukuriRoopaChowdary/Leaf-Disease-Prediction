@@ -1,21 +1,18 @@
-Here is a simple and informative `README.md` file based on the project files you uploaded, structured to impress recruiters and industry professionals:
-
-```markdown
 # Tomato Leaf Disease Prediction
 
 ## Project Description
 This project is a web-based application that uses deep learning to predict diseases in tomato leaves from uploaded images. It employs a Convolutional Neural Network (CNN) model to classify the disease and suggests organic treatment options. The system is designed for quick and accurate disease diagnosis, aimed at aiding farmers and agricultural professionals in improving crop health.
 
-[Project Link](https://github.com/username/project)
+[Project Link](https://github.com/CherukuriRoopaChowdary/Leaf-Disease-Prediction)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project.git
+   git clone https://github.com/CherukuriRoopaChowdary/Leaf-Disease-Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd project-directory
+   cd Leaf-Disease-Prediction
    ```
 3. Install dependencies:
    ```bash
@@ -23,7 +20,7 @@ This project is a web-based application that uses deep learning to predict disea
    ```
 4. Run the Flask application:
    ```bash
-   python app.py
+   python leaf.py
    ```
 
 ## Usage
@@ -40,17 +37,11 @@ This project is a web-based application that uses deep learning to predict disea
 ## Screenshots
 
 ### Homepage
-![Homepage](path-to-screenshot.png)
+![]("./Output/image.jpg")
 
 ### Prediction Result
-![Prediction](path-to-screenshot.png)
+![]("./Output/disease1.jpg")
+![]("./Output/disease2.jpg")
+![]("./Output/disease3.jpg")
+![]("./Output/disease4.jpg")
 
-## License
-This project is licensed under the MIT License.
-```
-
-### Instructions:
-- Replace `path-to-screenshot.png` with the actual path of your screenshots.
-- Replace `[Project Link](https://github.com/username/project)` with your actual GitHub project link.
-
-This `README.md` provides an overview of the project in a concise manner and highlights key aspects to catch the attention of recruiters or professionals. Let me know if you need further adjustments!
